@@ -30,5 +30,5 @@ pip install -r requirements.txt
 
 5. Run Main.py
 ``` bash
-python main.py --input file --file audio.mp3
+python3 main.py --input file --file audio.mp3
 ```
